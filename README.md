@@ -27,3 +27,4 @@ Ahorrarme  tiempo al momento de aplicar configuraciones para nuevos proyectos
 - [Vite  español](https://es.vitejs.dev/guide/)
 - [Router vuejs](https://router.vuejs.org/guide/)
 - [Configurando vue-router en Vue 3 + Vite]( https://adrian-galicia.dev/blog/configurando-vue-router-en-vue-3-vite/)
+- [Install Tailwind CSS with Vue 3 and Vite](https://tailwindcss.com/docs/guides/vite)

@@ -1,6 +1,7 @@
 <template>
-  <h1>Acerca de</h1>
+<h1 class=" text-7xl "> About  </h1>
 </template>
 
 <script>
+
 </script>
