@@ -4,7 +4,7 @@
 Modelo base para crear sitios y páginas , basado en vitejs , vue , usando VS Code
 
 ## Motivación 
-Ahorrarme  tiempo al momento de aplicar configuraciones base para proyectos 
+Ahorrarme  tiempo al momento de aplicar configuraciones para nuevos proyectos 
 
 ## Autor
 - Jose Vargas Molina ( zardonkan@gmail.com )
@@ -16,7 +16,7 @@ Ahorrarme  tiempo al momento de aplicar configuraciones base para proyectos
 - PayPal 
 
 ## Instrucciones
-- git clone
+- git clone https://github.com/sociovirtual/web-inicio.git
 - npm install
 - npm run dev ( proyecto en desarrollo)
 - npm run preview ( visualizar proyecto )
