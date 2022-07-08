@@ -1,7 +1,29 @@
-# Vue 3 + Vite
+# Web Inicio Para Proyectos web basado en VITE
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Descripción
+Modelo base para crear sitios y páginas , basado en vitejs , vue , usando VS Code
 
-## Recommended IDE Setup
+## Motivación 
+Ahorrarme  tiempo al momento de aplicar configuraciones base para proyectos 
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## Autor
+- Jose Vargas Molina ( zardonkan@gmail.com )
+
+## Contribución  
+- 
+
+## Aporte voluntario  
+- PayPal 
+
+## Instrucciones
+- git clone
+- npm install
+- npm run dev ( proyecto en desarrollo)
+- npm run preview ( visualizar proyecto )
+- npm run build ( finalizar proyecto)
+
+## Configuración IDE recomendada**
+- [VS Code](https://code.visualstudio.com/) 
+- [Vite  español](https://es.vitejs.dev/guide/)
+- [Router vuejs](https://router.vuejs.org/guide/)
+- [Configurando vue-router en Vue 3 + Vite]( https://adrian-galicia.dev/blog/configurando-vue-router-en-vue-3-vite/)
