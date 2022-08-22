@@ -13,7 +13,7 @@ Ahorrarme  tiempo al momento de aplicar configuraciones para nuevos proyectos
 - 
 
 ## Aporte voluntario  
-- PayPal 
+- PayPal XXX
 
 ## Instrucciones
 - git clone https://github.com/sociovirtual/web-inicio.git
